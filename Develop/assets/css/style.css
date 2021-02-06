@@ -78,6 +78,7 @@ a {
 .search-engine-optimization, 
 .online-reputation-management,
 .social-media-marketing {
+    position: relative;
     margin-bottom: 20px;
     margin-left: 20px;
     display: block;
