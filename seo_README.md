@@ -1,5 +1,6 @@
 * [Acceptance Criteria](#acceptancecriteria)
 * [Project Status](#projectstatus)
+* [Project Details](#projectdetails)
 * [Support](#support)
 * [Contributing](#contributing)
 * [Authors](#authors)
